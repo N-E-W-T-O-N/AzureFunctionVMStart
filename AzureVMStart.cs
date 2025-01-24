@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace VM_Start
 {
+    // Azure Function to PowerUP VM
     public class AzureVMStart
     {
         string  subscriptionId {get;set;}
